@@ -1,0 +1,17 @@
+C:\Users\pedro.haupt\Desktop\SorrIA\HamburgueriaCQRS\Hamburgueria.Application\bin\Debug\net6.0\Hamburgueria.Application.deps.json
+C:\Users\pedro.haupt\Desktop\SorrIA\HamburgueriaCQRS\Hamburgueria.Application\bin\Debug\net6.0\Hamburgueria.Application.dll
+C:\Users\pedro.haupt\Desktop\SorrIA\HamburgueriaCQRS\Hamburgueria.Application\bin\Debug\net6.0\Hamburgueria.Application.pdb
+C:\Users\pedro.haupt\Desktop\SorrIA\HamburgueriaCQRS\Hamburgueria.Application\bin\Debug\net6.0\Hamburgueria.Domain.dll
+C:\Users\pedro.haupt\Desktop\SorrIA\HamburgueriaCQRS\Hamburgueria.Application\bin\Debug\net6.0\Hamburgueria.Infrastructure.dll
+C:\Users\pedro.haupt\Desktop\SorrIA\HamburgueriaCQRS\Hamburgueria.Application\bin\Debug\net6.0\Hamburgueria.Infrastructure.pdb
+C:\Users\pedro.haupt\Desktop\SorrIA\HamburgueriaCQRS\Hamburgueria.Application\bin\Debug\net6.0\Hamburgueria.Domain.pdb
+C:\Users\pedro.haupt\Desktop\SorrIA\HamburgueriaCQRS\Hamburgueria.Application\obj\Debug\net6.0\Hamburgueria.Application.csproj.AssemblyReference.cache
+C:\Users\pedro.haupt\Desktop\SorrIA\HamburgueriaCQRS\Hamburgueria.Application\obj\Debug\net6.0\Hamburgueria.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.haupt\Desktop\SorrIA\HamburgueriaCQRS\Hamburgueria.Application\obj\Debug\net6.0\Hamburgueria.Application.AssemblyInfoInputs.cache
+C:\Users\pedro.haupt\Desktop\SorrIA\HamburgueriaCQRS\Hamburgueria.Application\obj\Debug\net6.0\Hamburgueria.Application.AssemblyInfo.cs
+C:\Users\pedro.haupt\Desktop\SorrIA\HamburgueriaCQRS\Hamburgueria.Application\obj\Debug\net6.0\Hamburgueria.Application.csproj.CoreCompileInputs.cache
+C:\Users\pedro.haupt\Desktop\SorrIA\HamburgueriaCQRS\Hamburgueria.Application\obj\Debug\net6.0\Hamburgu.652DB4BF.Up2Date
+C:\Users\pedro.haupt\Desktop\SorrIA\HamburgueriaCQRS\Hamburgueria.Application\obj\Debug\net6.0\Hamburgueria.Application.dll
+C:\Users\pedro.haupt\Desktop\SorrIA\HamburgueriaCQRS\Hamburgueria.Application\obj\Debug\net6.0\refint\Hamburgueria.Application.dll
+C:\Users\pedro.haupt\Desktop\SorrIA\HamburgueriaCQRS\Hamburgueria.Application\obj\Debug\net6.0\Hamburgueria.Application.pdb
+C:\Users\pedro.haupt\Desktop\SorrIA\HamburgueriaCQRS\Hamburgueria.Application\obj\Debug\net6.0\ref\Hamburgueria.Application.dll
