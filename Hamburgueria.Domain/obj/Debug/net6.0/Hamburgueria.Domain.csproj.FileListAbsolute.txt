@@ -1,0 +1,11 @@
+C:\Users\pedro.haupt\Desktop\SorrIA\HamburgueriaCQRS\Hamburgueria.Domain\bin\Debug\net6.0\Hamburgueria.Domain.deps.json
+C:\Users\pedro.haupt\Desktop\SorrIA\HamburgueriaCQRS\Hamburgueria.Domain\bin\Debug\net6.0\Hamburgueria.Domain.dll
+C:\Users\pedro.haupt\Desktop\SorrIA\HamburgueriaCQRS\Hamburgueria.Domain\bin\Debug\net6.0\Hamburgueria.Domain.pdb
+C:\Users\pedro.haupt\Desktop\SorrIA\HamburgueriaCQRS\Hamburgueria.Domain\obj\Debug\net6.0\Hamburgueria.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.haupt\Desktop\SorrIA\HamburgueriaCQRS\Hamburgueria.Domain\obj\Debug\net6.0\Hamburgueria.Domain.AssemblyInfoInputs.cache
+C:\Users\pedro.haupt\Desktop\SorrIA\HamburgueriaCQRS\Hamburgueria.Domain\obj\Debug\net6.0\Hamburgueria.Domain.AssemblyInfo.cs
+C:\Users\pedro.haupt\Desktop\SorrIA\HamburgueriaCQRS\Hamburgueria.Domain\obj\Debug\net6.0\Hamburgueria.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pedro.haupt\Desktop\SorrIA\HamburgueriaCQRS\Hamburgueria.Domain\obj\Debug\net6.0\Hamburgueria.Domain.dll
+C:\Users\pedro.haupt\Desktop\SorrIA\HamburgueriaCQRS\Hamburgueria.Domain\obj\Debug\net6.0\refint\Hamburgueria.Domain.dll
+C:\Users\pedro.haupt\Desktop\SorrIA\HamburgueriaCQRS\Hamburgueria.Domain\obj\Debug\net6.0\Hamburgueria.Domain.pdb
+C:\Users\pedro.haupt\Desktop\SorrIA\HamburgueriaCQRS\Hamburgueria.Domain\obj\Debug\net6.0\ref\Hamburgueria.Domain.dll

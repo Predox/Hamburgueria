@@ -1,0 +1,92 @@
+[
+  {
+    "ContainingType": "Hamburgueria.WebApi.Controllers.PedidosController",
+    "Method": "Excluir",
+    "RelativePath": "api/Pedidos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Hamburgueria.WebApi.Controllers.PedidosController",
+    "Method": "Criar",
+    "RelativePath": "api/Pedidos/criar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cmd",
+        "Type": "Hamburgueria.Application.Commands.CreatePedido.CreatePedidoCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Hamburgueria.WebApi.Controllers.PedidosController",
+    "Method": "CriarEmLote",
+    "RelativePath": "api/Pedidos/criar-em-lote",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "comandos",
+        "Type": "System.Collections.Generic.List\u00601[[Hamburgueria.Application.Commands.CreatePedido.CreatePedidoCommand, Hamburgueria.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Hamburgueria.WebApi.Controllers.PedidosController",
+    "Method": "Frete",
+    "RelativePath": "api/Pedidos/frete/{bairro}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bairro",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Hamburgueria.WebApi.Controllers.PedidosController",
+    "Method": "ListarTodos",
+    "RelativePath": "api/Pedidos/get-pedidos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Hamburgueria.WebApi.Controllers.PedidosController",
+    "Method": "Rota",
+    "RelativePath": "api/Pedidos/rota",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "itens",
+        "Type": "System.Collections.Generic.List\u00601[[Hamburgueria.WebApi.Controllers.CalcularRotaRequestDto, Hamburgueria.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
